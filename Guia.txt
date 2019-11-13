@@ -1,0 +1,15 @@
+crear user github
+crear repo llamado devnet_dc
+programa con 3 inst print
+verificar programa en python
+subirlo
+	1 en el directorio donde esta el .py (workingdirectory)
+	2 inicializar git..... git init
+	3 git remote add origin <url del repo que dio github>
+		https://github.com/hdavella/devnet_dc.git
+	4 git status
+	5 git add .
+	6 git commit -m "Primer commit"
+	7 git pushh origin master
+
+6*-----------8

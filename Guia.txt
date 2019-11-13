@@ -10,6 +10,23 @@ subirlo
 	4 git status
 	5 git add .
 	6 git commit -m "Primer commit"
-	7 git pushh origin master
+	7 git push origin master
 
 6*-----------8
+
+git config --global user.hdavella user.name "Your name here"
+git config --global user.hdavella@gmail.com user.email "your_email@example.com"
+
+BEC923V1dAqPRI8466eyJY4KcSdwOKQ5lUfhB88dkKc
+
++---[RSA 4096]----+
+|  o+*+oo.  .+  .o|
+| =.o.+oo.. o *..o|
+|+ +.o ++o o o.+. |
+| . + .E.  .o.    |
+|  . o .oS...     |
+|   o o. ..       |
+|  .     . o .    |
+|   .   o.o o     |
+|    ... oo.      |
++----[SHA256]-----+

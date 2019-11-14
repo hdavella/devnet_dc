@@ -30,3 +30,14 @@ BEC923V1dAqPRI8466eyJY4KcSdwOKQ5lUfhB88dkKc
 |   .   o.o o     |
 |    ... oo.      |
 +----[SHA256]-----+
+
+1)Crear modulo
+  3 funciones
+	fecha (sys u OS)
+	potencia numero (math)
+	operar file
+		crear file
+		leer file
+
+2)Crear file con formato jason
+	leer y convertir a dict
